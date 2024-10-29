@@ -16,9 +16,9 @@
       <!--   <li><a href="#license">License</a></li> -->
       </ul>
     
-    <h2 id="i">Introduction</h2>
+<h2 id="i">Introduction</h2>
 
-    <p>Capstone project focuses on the development of an ATM simulator using modern web
+<p>Capstone project focuses on the development of an ATM simulator using modern web
         technologies, including HTML, CSS, and JavaScript, with Google Firebase as the
         backend database. The primary goal is to build a web-based application that accurately
         replicates the core functionalities of a real-world ATM, enabling users to carry out
@@ -29,18 +29,18 @@
         withdrawals, deposits, balance inquiries, and fund transfers, ensuring a responsive and
         dynamic user experience.</p>
 
-       <p> Google Firebase will serve as the database backend, securely managing user account
+<p> Google Firebase will serve as the database backend, securely managing user account
         information, including login credentials, transaction histories, and account balances.
         Firebase's real-time data synchronization and authentication capabilities provide a
         robust and scalable backend solution, ensuring the seamless handling of multiple user
         accounts and transactions.</p>
 
-    <p>In conclusion, this ATM simulator combines the strengths of HTML, CSS, JavaScript,
+<p>In conclusion, this ATM simulator combines the strengths of HTML, CSS, JavaScript,
         and Google Firebase to offer a comprehensive, realistic to understand and practice
         banking transactions in a secure, simulated environment</p>
 
-        <h2 id="p">Problem Discription</h2>
-        <p>Automated Teller Machines (ATMs) are a crucial part of everyday banking, offering
+<h2 id="p">Problem Discription</h2>
+ <p>Automated Teller Machines (ATMs) are a crucial part of everyday banking, offering
             convenient access to financial services like balance inquiries, withdrawals, deposits,
             and fund transfers. However, many users, particularly those less familiar with
             technology, struggle to use ATMs efficiently and securely. This lack of familiarity can
@@ -52,14 +52,14 @@
             comprehensive experience that shows the complete ATM functionality from start to
             finish.</p>
 
-            <p>Additionally, with the increase in digital banking, security has become a critical
+<p>Additionally, with the increase in digital banking, security has become a critical
             concern. Many people are apprehensive about handling financial transactions online
             due to risks like fraud or data breaches. Simulators often overlook the importance of
             building secure environments, where users can practice these transactions without realworld consequences or exposure to vulnerabilities.
             This project aims to address these problems by creating a full-stack ATM simulator that
             provides a realistic user interface along with secure backend management.</p>
             
-            <p>The simulator will allow users to practice common banking tasks such as checking account
+<p>The simulator will allow users to practice common banking tasks such as checking account
             balances, making deposits, withdrawals, and transferring funds in a controlled
             environment. By integrating both the front-end and backend components, the project
             gives users a complete experience, demonstrating how the entire ATM system functions,
@@ -69,7 +69,7 @@
             the system provides a reliable platform for simulating real ATM operations without the
             risks associated with real banking.</p>
 
-            <h2 id="k">Key Features</h2>
+<h2 id="k">Key Features</h2>
 
 <ul>
   <li><strong>Account Signup:</strong> Seamlessly create new accounts by inputting personal and contact information.</li>
@@ -105,7 +105,7 @@
 <h2 id="d">Demonstration</h2>
 <h3>Register</h3>
 <video width="320" height="240" controls>
-    <source src="./Assets/Register.mp4" type="video/mp4">
+    <source src="www.github.com/sreehari20050/Atm-Simulator/Assets/Register.mp4" type="video/mp4">
   </video>
   <h3>Login</h3>
 <video width="320" height="240" controls>
