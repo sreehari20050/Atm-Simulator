@@ -7,14 +7,12 @@
     <h1 align="center">ATM Simulator System</h1>
     <h2>Table of Contents</h2>
     <ul>
-        <li><a href="#i">Introduction</a></li>
-        <li><a href="#p">Problem Discription</a></li>
-        <li><a href="#k">Key Features</a></li>
-        <li><a href="#s"></a>SetUp Information</li>
-        <li><a href="#d">Demonstration</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-      <!--   <li><a href="#license">License</a></li> -->
-      </ul>
+        <li>Introduction</li>
+        <li>Problem Discription</li>
+        <li>Key Features</li>
+        <li>SetUp Information</li>
+        <li>Demonstration</li>
+
     
 <h2 id="i">Introduction</h2>
 
@@ -92,41 +90,52 @@
   <li>Navigate to the project directory in your terminal.</li>
   <li>create a firebase account and a project in it</li>
   <li>copy and paste the api part in the code</li>
+    
+
+https://github.com/user-attachments/assets/de2ffb53-3a8f-47c2-b75c-2c5c1ec8c0d2
+
+
 </ol>
 
 <ol start="6">
-  <li>Run the application using the following command:</li>
-  <video width="320" height="240" controls>
-    <source src="./Assets/ApiSetup.mp4" type="video/mp4">
-  </video>
   <li>Run the project using vscode:</li>
 </ol>
 
 <h2 id="d">Demonstration</h2>
 <h3>Register</h3>
-<video width="320" height="240" controls>
-    <source src="www.github.com/sreehari20050/Atm-Simulator/Assets/Register.mp4" type="video/mp4">
-  </video>
+
+
+  https://github.com/user-attachments/assets/97edae22-8ccf-4717-9600-d75d0b18a127
   <h3>Login</h3>
-<video width="320" height="240" controls>
-    <source src=".//Assets/Login.mp4" type="video/mp4">
-  </video>
+
+
+https://github.com/user-attachments/assets/fa6f2471-acef-4b1e-9974-b3f22ea0cea9
+
+
+
+  
   <h3>Deposit</h3>
-<video width="320" height="240" controls>
-    <source src="./Assets/Deposit.mp4" type="video/mp4">
-  </video>
+  
+
+https://github.com/user-attachments/assets/16ec3009-2787-4196-bb5f-842e31e79099
+
+
   <h3>Withdrawl</h3>
-<video width="320" height="240" controls>
-    <source src="./Assets/Withdraw.mp4" type="video/mp4">
-  </video>
+
+
+https://github.com/user-attachments/assets/aff73345-3c8e-4ec2-add1-4f453562b899
+
+
   <h3>Transfer</h3>
-<video width="320" height="240" controls>
-    <source src="./Assets/Transfer.mp4" type="video/mp4">
-  </video>
+
+
+https://github.com/user-attachments/assets/92714391-9370-4d08-9eb4-89e161f635e5
+
+
   <h3>Bill</h3>
-<video width="320" height="240" controls>
-    <source src="./Assets/Bill.mp4" type="video/mp4">
-  </video>
+  
+https://github.com/user-attachments/assets/0a77b33b-1b71-4275-be89-119b05f13bf0
+
 </body>
 </html>
 
