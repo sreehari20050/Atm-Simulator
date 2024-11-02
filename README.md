@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/fa6f2471-acef-4b1e-9974-b3f22ea0cea9
 https://github.com/user-attachments/assets/16ec3009-2787-4196-bb5f-842e31e79099
 
 
-  <h3>Withdrawl</h3>
+  <h3>Withdrawal</h3>
 
 
 https://github.com/user-attachments/assets/aff73345-3c8e-4ec2-add1-4f453562b899
