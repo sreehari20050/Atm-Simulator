@@ -1,15 +1,15 @@
 //------imports--&--Configs----------//
- import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js";
- import {getDatabase, ref, set, get, child, update, remove } from "https://www.gstatic.com/firebasejs/10.13.2/firebase-database.js";
+ import { initializeApp } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-app.js";
+ import {getDatabase, ref, set, get, child, update, remove } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-database.js";
 
   const firebaseConfig = {
-    apiKey: "AIzaSyDA5WFFG2-ZXtSI03NXPePhEpO-IamImPo",
-    authDomain: "alphabet-bank.firebaseapp.com",
-    projectId: "alphabet-bank",
-    storageBucket: "alphabet-bank.appspot.com",
-    messagingSenderId: "735002305176",
-    appId: "1:735002305176:web:e6c815779cd350683726ed",
-    measurementId: "G-TZRZPFMXM9"
+    apiKey: "AIzaSyAh71dSV9oPVGsPbjDpnqbBcXidu2sLfH4",
+    authDomain: "qwerty-5db7c.firebaseapp.com",
+    projectId: "qwerty-5db7c",
+    storageBucket: "qwerty-5db7c.firebasestorage.app",
+    messagingSenderId: "527853816006",
+    appId: "1:527853816006:web:01740e573c506777936fc7",
+    measurementId: "G-NSS563GY2H"
   };
 
 
